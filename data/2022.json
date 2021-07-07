@@ -1,0 +1,23 @@
+{
+	"income-tax": {
+		"table": [
+			{	"low": null,	"high": 216200,		"percent": 18,	"fixed": 0		},
+			{	"low": 216201,	"high": 337800,		"percent": 26,	"fixed": 38916	},
+			{	"low": 337801,	"high": 467500,		"percent": 31,	"fixed": 70532	},
+			{	"low": 467501,	"high": 613600,		"percent": 36,	"fixed": 110739	},
+			{	"low": 613601,	"high": 782200,		"percent": 39,	"fixed": 163335	},
+			{	"low": 782201,	"high": 1656600,	"percent": 41,	"fixed": 229089	},
+			{	"low": 1656601,	"high": null,		"percent": 45,	"fixed": 587593	}
+		],
+		"rebate": [
+			{	"age-min": 0,		"rebate": 15714		},
+			{	"age-min": 65,		"rebate": 8613		},
+			{	"age-min": 75,		"rebate": 2871		}
+		],
+		"threshold": [
+			{	"age-min": 0,		"threshold": 87300		},
+			{	"age-min": 65,		"threshold": 135150		},
+			{	"age-min": 75,		"threshold": 151100		}
+		]
+	}
+}

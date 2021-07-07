@@ -1,0 +1,184 @@
+[
+    {
+        "context": "2022-06-01",
+        "income": 1875000,
+        "frequency": "weekly",
+        "age": 40,
+        "expected": 840411.71
+    },
+    {
+        "context": "2022-04-01",
+        "income": 810000,
+        "frequency": "monthly",
+        "age": 42,
+        "expected": 350034.08
+    },
+    {
+        "context": "2021-03-01",
+        "income": 650000,
+        "frequency": "annual",
+        "age": 44,
+        "expected": 161817
+    },
+    {
+        "context": "2022-12-01",
+        "income": 1225000,
+        "frequency": "monthly",
+        "age": 73,
+        "expected": 536066.33
+    },
+    {
+        "context": "2022-01-01",
+        "income": 1230000,
+        "frequency": "daily",
+        "age": 61,
+        "expected": 553024.41
+    },
+    {
+        "context": "2022-01-01",
+        "income": 1645000,
+        "frequency": "monthly",
+        "age": 67,
+        "expected": 725066.33
+    },
+    {
+        "context": "2022-07-01",
+        "income": 655000,
+        "frequency": "daily",
+        "age": 89,
+        "expected": 294242.95
+    },
+    {
+        "context": "2021-05-01",
+        "income": 1970000,
+        "frequency": "monthly",
+        "age": 75,
+        "expected": 871077.08
+    },
+    {
+        "context": "2022-12-01",
+        "income": 270000,
+        "frequency": "monthly",
+        "age": 82,
+        "expected": 106077.08
+    },
+    {
+        "context": "2021-06-01",
+        "income": 1235000,
+        "frequency": "monthly",
+        "age": 79,
+        "expected": 540327.08
+    },
+    {
+        "context": "2022-10-01",
+        "income": 1385000,
+        "frequency": "weekly",
+        "age": 87,
+        "expected": 619690.87
+    },
+    {
+        "context": "2021-02-01",
+        "income": 1605000,
+        "frequency": "weekly",
+        "age": 80,
+        "expected": 718690.87
+    },
+    {
+        "context": "2022-02-01",
+        "income": 1250000,
+        "frequency": "weekly",
+        "age": 89,
+        "expected": 558940.87
+    },
+    {
+        "context": "2021-07-01",
+        "income": 1275000,
+        "frequency": "daily",
+        "age": 51,
+        "expected": 573274.41
+    },
+    {
+        "context": "2021-09-01",
+        "income": 305000,
+        "frequency": "weekly",
+        "age": 83,
+        "expected": 133690.87
+    },
+    {
+        "context": "2022-08-01",
+        "income": 1640000,
+        "frequency": "annual",
+        "age": 44,
+        "expected": 565073
+    },
+    {
+        "context": "2022-10-01",
+        "income": 235000,
+        "frequency": "daily",
+        "age": 79,
+        "expected": 105242.95
+    },
+    {
+        "context": "2021-03-01",
+        "income": 1365000,
+        "frequency": "daily",
+        "age": 80,
+        "expected": 613742.95
+    },
+    {
+        "context": "2022-07-01",
+        "income": 730000,
+        "frequency": "daily",
+        "age": 84,
+        "expected": 327992.95
+    },
+    {
+        "context": "2021-09-01",
+        "income": 1485000,
+        "frequency": "daily",
+        "age": 43,
+        "expected": 667774.41
+    },
+    {
+        "context": "2021-02-01",
+        "income": 1660000,
+        "frequency": "daily",
+        "age": 47,
+        "expected": 746524.41
+    },
+    {
+        "context": "2021-06-01",
+        "income": 805000,
+        "frequency": "monthly",
+        "age": 78,
+        "expected": 346827.08
+    },
+    {
+        "context": "2022-05-01",
+        "income": 1005000,
+        "frequency": "monthly",
+        "age": 65,
+        "expected": 437066.33
+    },
+    {
+        "context": "2021-03-01",
+        "income": 1555000,
+        "frequency": "daily",
+        "age": 59,
+        "expected": 699274.41
+    },
+    {
+        "context": "2021-02-01",
+        "income": 745000,
+        "frequency": "weekly",
+        "age": 83,
+        "expected": 331690.87
+    },
+    {
+        "context": "2021-10-01",
+        "income": 485000,
+        "frequency": "monthly",
+        "age": 84,
+        "expected": 202827.08
+    }
+]

@@ -1,0 +1,39 @@
+{
+    "name": "bit64/sars",
+    "description": "South African Revenue Services (SARS) component for PHP",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "bit64",
+        "tax",
+        "paye",
+        "sars"
+    ],
+    "authors": [
+        {
+            "name": "Warren Heyneke",
+            "email": "warren@bit64.co"
+        },
+        {
+            "name": "Bit 64 Solutions",
+            "homepage": "https://bit64.co"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Bit64\\Sars\\": "src/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    },
+    "require": {
+        "php": ">=7.3",
+        "bit64/common": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
